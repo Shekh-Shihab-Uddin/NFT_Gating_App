@@ -1,0 +1,20 @@
+.inputField {
+  width: auto;
+  align-content: center;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+button {
+  margin: 5px;
+}
+
+.button:hover {
+  background-color: cornflowerblue;
+}
+
+input::placeholder {
+  text-align: center;
+  width: fit-content;
+}
